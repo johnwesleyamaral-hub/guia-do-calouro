@@ -3,3 +3,5 @@ E-mail: secretaria@universidade.com
 
 Biblioteca
 Horário: 08h às 22h
+git add 
+git commit -m "Adiciona arquivo de contatos" git log
