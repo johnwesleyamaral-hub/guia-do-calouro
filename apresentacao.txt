@@ -3,3 +3,7 @@ Guia do Calouro
 Nome: John
 Curso: Engenharia de Software
 Objetivo: Organizar informacoes uteis para estudantes iniciantes.
+Dicas:
+1. Organize seus horarios de estudo.
+2. Tire duvidas com professores e colegas.
+3. Faca copias de seguranca dos seus trabalhos.
