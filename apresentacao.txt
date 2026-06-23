@@ -1,0 +1,5 @@
+Guia do Calouro
+
+Nome: John
+Curso: Engenharia de Software
+Objetivo: Organizar informacoes uteis para estudantes iniciantes.
